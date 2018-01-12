@@ -19,9 +19,10 @@
     <color name="photo_placeholder">#ccc</color>
 
     <color name="theme_primary">#04561a</color>
-    <color name="theme_primary_dark">#04561a</color>
-    <color name="theme_accent">#558B2F</color>
+    <color name="theme_primary_dark">#033510</color>
+    <color name="theme_accent">#dd3430</color>
     <color name="black">#000000</color>
     <color name="article_subtitle">#6000</color>
+    <color name="white">#FFFFFF</color>
 
 </resources>

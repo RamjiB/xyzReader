@@ -9,6 +9,7 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.net.Uri;
 import android.os.RemoteException;
+import android.support.design.widget.Snackbar;
 import android.text.format.Time;
 import android.util.Log;
 

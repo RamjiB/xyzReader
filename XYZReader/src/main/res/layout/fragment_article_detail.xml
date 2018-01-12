@@ -22,7 +22,8 @@
                     android:id="@+id/photo_container"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/photo_placeholder">
+                    android:background="@color/photo_placeholder"
+                    app:elevation="4dp">
                     <!--suppress AndroidLintContentDescription -->
 
                     <ImageView
@@ -112,6 +113,8 @@
         android:layout_width="56dp"
         android:layout_height="56dp"
         android:src="@drawable/ic_share"
+        app:elevation="6dp"
+        app:pressedTranslationZ="@dimen/fab_press_translation_z"
         android:contentDescription="@string/action_share" />
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
